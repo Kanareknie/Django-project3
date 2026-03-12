@@ -1,0 +1,1 @@
+web: gunicornc odestar.wsgi
